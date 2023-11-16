@@ -1,0 +1,14 @@
+https://github.com/KarlzJr/CMPM-151-final
+	- I worked on the metasound design of the gun shooting and collision.
+https://github.com/lukaslicon/UnityWizards
+	- Working on map design. Currently on prototype phase
+https://github.com/Nadoodles/Phaser3/tree/master/GraveOfTheFireFlies
+	- Worked on Scene 2 and Scene 3 with playable build link available https://nadoodles.github.io/Phaser3/GraveOfTheFireFlies/
+https://github.com/FeiPetr/Stack
+	- I worked on a quick prototype of implementing overlap script and music with playable build link available (soon)
+https://github.com/prjktalix/Maze
+	-  I worked on a quick prototype of a maze. I am the lead designer and programming of this project. My responsibilities 
+		include creating a maze, setting up the prefabs, and creating AI behavior by tracking/following the player. 
+		Additionally, I implemented the navigation mesh, and created a win/lose condition which is one of the most 
+		important factors of the game. For a better player experience, I managed the camera and player behavior, 
+		ensuring a smooth interaction throughout the game.
