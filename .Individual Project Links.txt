@@ -1,4 +1,0 @@
-https://github.com/prjktalix/One-Button-Game-Individual
-https://github.com/prjktalix/Web-Development-Projects
-https://github.com/prjktalix/endlessRunner (With playable build https://prjktalix.github.io/endlessRunner/)
-https://github.com/prjktalix/Rocket-Patrol-Mod (With playable build https://prjktalix.github.io/Rocket-Patrol-Mod/)
