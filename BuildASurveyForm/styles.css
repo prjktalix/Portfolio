@@ -1,0 +1,69 @@
+h1, p {
+	margin: 1em auto;
+	text-align: center;
+	font-family: Roboto;
+}
+
+form {
+	width: 50vw;
+	min-width: 500px;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 2em  2em 2em;
+	padding-top: 10px;
+	background-color: rgba(0, 0, 0, .5);
+}
+
+body {
+	width: 100%;
+	height: 100vh;
+	margin: 100px 0 0 0;
+	color: #f5f6f7;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	background-image: url('https://wallpapercave.com/wp/wp3153705.jpg');
+	background-color: rgba(138,43,226,0.6);
+    background-blend-mode: lighten;
+}
+
+fieldset {
+	border: none;
+	padding: 0;
+}
+
+label {
+	display:block;
+	margin: 0.5rem 0;
+}
+
+input {
+	margin: 10px 0 0 0;
+	width: 50%;
+}
+
+input, textarea, select {
+	margin: 10px 0 0 0;
+	width: 100%;
+	min-height: 2em;
+}
+
+textarea {
+	height: 50px;
+}
+
+.inline {
+	width:unset;
+	margin: 0 0.5em 0 0;
+	vertical-align: middle;
+}
+
+input[type="submit"] {
+	display:block;
+	width: 100%;
+	margin: 1em auto;
+	height: 2em;
+	font-size: 1.1rem;
+	background-color: chartreuse;
+	border-color: chartreuse;
+	min-width: 300px;
+}

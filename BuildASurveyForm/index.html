@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime Survey Form</title>
+    <link rel="stylesheet" href="styles.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet"></head>
+<body>
+    
+    <form id="survey-form" method="post" action="/submit-survey"> 
+    <fieldset>
+        <h1 id="title">Anime Survey Form</h1>
+    <p id="description"><em>Thank you for taking your time participating to my survey</em></p>
+        <label for="name" id="name-label">Name <input type="text" id="name" name="name" placeholder="Enter your name" required /></label>
+        <label for="email" id="email-label">Email <input type="email" id="email" name="email" placeholder="Enter your Email" required/></label>
+        <label for="number" id="number-label">Age(optional) <input type="number" id="number" min="8" max="120" name="number" placeholder="Enter your Age" value="age" /></label>    
+    </fieldset>
+    <fieldset>
+        <label>How long have you been watching anime?</label>
+        <label for="option-one"><input type="radio" name="years" value="option1" class="inline">0-1 years</label>
+            <label for="option-two"><input type="radio" name="years" value="option2" class="inline">2-3 years</label>
+            <label for="option-three"><input type="radio" name="years" value="option3" class="inline">3+ years</label>
+    </fieldset>
+    <fieldset>
+        <label>What is your favorite dark-trio anime?
+            <select id="dropdown">
+                <option value="">(select one)</option>
+                <option value="1">Chainsaw Man</option>
+                <option value="2">Jujutsu Kaisen</option>
+                <option value="3">Hell's Paradise</option>
+            </select>
+        </label>
+    </fieldset>
+    <fieldset>
+        <label>Have you watched these animes? (Check all that apply)</label>
+        <label for="cb1"><input type="checkbox" id="cb1" value="1" class="inline">Dragon Ball</label>
+        <label for="cb2"><input type="checkbox" id="cb2" value="2" class="inline">One Piece</label>
+        <label for="cb3"><input type="checkbox" id="cb3" value="3" class="inline">Naruto</label>
+        <label for="cb4"><input type="checkbox" id="cb4" value="4" class="inline">Demon Slayer</label>
+        <label for="cb5"><input type="checkbox" id="cb5" value="5" class="inline">Pokemon</label>
+        <label for="cb6"><input type="checkbox" id="cb6" value="6" class="inline">Death Note</label>
+        <label for="cb7"><input type="checkbox" id="cb7" value="7" class="inline">Attack on Titan</label>
+        <label for="cb8"><input type="checkbox" id="cb8" value="8" class="inline">Jojo's Bizarre Adventure</label>
+        <label for="cb9"><input type="checkbox" id="cb9" value="9" class="inline">Gundam</label>
+        <label for="cb10"><input type="checkbox" id="cb10" value="10" class="inline">Yu-Gi-Oh!</label>
+    </fieldset>
+    <fieldset>
+        <label for="why">What is your favorite anime and why? 
+            <textarea id="why" name="why" row="3" cols="50" placeholder=" Enter your comment here..." ></textarea>
+        </label>
+    </fieldset>
+    <input type="submit" id="submit" value="Submit"/>
+    </form>
+</body>
+</html>
