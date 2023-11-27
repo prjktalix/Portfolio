@@ -1,0 +1,19 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Priority,Product stage,Cost,Epic
+1206027268182479,2023-11-24,,2023-11-24,Low-maintenance options,Backlog,,,,,,"As a potential customer, I want to find out which plants are easiest to care for so that I can purchase low-maintenance options.",Sprint Planning,,,,,,,Plant Care Initiatives
+1206027268182493,2023-11-24,,2023-11-24,"Ability to sort plants by ""beginner,"" ""intermediate,"" and ""advanced"" ",,,,,,,,,Low-maintenance options,,,,,,
+1206027268182494,2023-11-24,,2023-11-24,Ability to search for plants with similar care needs,,,,,,,,,Low-maintenance options,,,,,,
+1206027268182481,2023-11-24,,2023-11-24,Plant care tips,Backlog,,,,,,"As a plant owner, I want to access care instructions easily so that I can keep my plant alive longer.",Sprint Planning,,,,,,,Plant Care Initiatives
+1206027268182495,2023-11-24,,2023-11-24,Receive plant care leaflets with each order,,,,,,,,,Plant care tips,,,,,,
+1206027268182496,2023-11-24,,2023-11-24,Option to sign up for monthly emails with seasonal care tips,,,,,,,,,Plant care tips,,,,,,
+1206027268182483,2023-11-24,,2023-11-24,Plant care tools,Backlog,,,,,,"As a plant owner, I want to have the right tools to care for my plant so that I can keep it healthy and beautiful.
+
+",Sprint Planning,,,,,,,Plant Care Initiatives
+1206027268182497,2023-11-24,,2023-11-24,Can purchase plant care starter kits,,,,,,,,,Plant care tools,,,,,,
+1206027268182498,2023-11-24,,2023-11-24,Option to buy partial kits or single tools,,,,,,,,,Plant care tools,,,,,,
+1206027268182485,2023-11-24,,2023-11-24,Watering reminders,Backlog,,,,,,"As a plant owner, I want to be reminded when to water my plants so that I don't under- or over-water them.
+
+",Sprint Planning,,,,,,,Plant Care Initiatives
+1206027268182487,2023-11-24,,2023-11-24,Expert help and advice,Backlog,,,,,,"As a plant owner, I want to get expert help and advice quickly so that I know what to do if my plant gets sick. 
+
+",Sprint Planning,,,,,,,Plant Care Initiatives
+1206027268182489,2023-11-24,,2023-11-24,Return policy,Backlog,,,,,,"As a customer, I want a hassle-free way to return my order so that I can be sure I have the right plant for me.",Sprint Planning,,,,,,,Plant Care Initiatives
